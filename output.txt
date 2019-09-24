@@ -1,7 +1,6 @@
 Script started on Sat 24 Nov 2018 02:01:22 PM EST
 
-------------------------------------------
-Testing: Final A#2-Milestone #4
+
 ------------------------------------------
 Contact Management System
 -------------------------
