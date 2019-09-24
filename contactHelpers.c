@@ -1,12 +1,4 @@
-/* -------------------------------------------
-Name:behnam ghafouri  
-Student number: 
-Email:          
-Section:        
-Date:           
-----------------------------------------------
-Assignment: 2
-Milestone:  4
+
 ---------------------------------------------- */
 
 #define _CRT_SECURE_NO_WARNINGS
@@ -14,9 +6,7 @@ Milestone:  4
 #include <stdio.h>
 
 
-// This source file needs to "know about" the SYSTEM string library functions.
-// HINT: The library name is string.h.
-//       #include the string.h header file on the next line:
+
 
 #include<string.h>
 #include<ctype.h>
