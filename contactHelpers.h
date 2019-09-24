@@ -1,30 +1,6 @@
-/* ------------------------------------------------------------------
-Name:behnam ghafouri	
-Student number:117724187
-Email:
-Section:
-Date:
----------------------------------------------------------------------
-Assignment: 2
-Milestone:  4
----------------------------------------------------------------------
-Description: This header file modularizes general helper functions to
-help reduce redundant coding for common repetitive tasks.
----------------------------------------------------------------------*/
 
-
-// Hint:  This header file now has functions with parameters referring to 
-//        the struct Contact type so be sure to include the contacts.h header:
 #include"contacts.h"
 
-//------------------------------------------------------
-// Function Prototypes
-//------------------------------------------------------
-
-// +-------------------------------------------------+
-// | NOTE:  Copy/Paste your Assignment-2 Milestone-3 |
-// |        function prototypes here...              |
-// +-------------------------------------------------+
 
 // Clear the standard input buffer
 // clearKeyboard:
